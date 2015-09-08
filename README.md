@@ -2,7 +2,7 @@
 
 Image `klokantech/squid`.
 
-Put configuration in `/etc/squid3/conf.d./*.conf`.
+Put configuration in `/etc/squid3/conf.d/*.conf`.
 Set up a cache directory in `/var/spool/squid3`
 and memory size. Do not modify any of the standard
 locations and ports.
